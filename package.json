@@ -1,0 +1,20 @@
+{
+  "name": "forerunner-standalone",
+  "version": "0.3.0",
+  "main": "index.js",
+  "description": "Utility to run a forerunner job without a worker pool",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/dropdownmenu/forerunner-standalone.git"
+  },
+  "preferGlobal": true,
+  "bin": {
+    "forerunner-standalone": "./bin/standalone.sh"
+  },
+  "dependencies": {
+    "forerunner": "0.3.x",
+    "commander": "~2.2.0",
+    "underscore": "~1.6.0"
+  }
+}
