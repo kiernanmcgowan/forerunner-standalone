@@ -1,6 +1,6 @@
 {
   "name": "forerunner-standalone",
-  "version": "0.3.11",
+  "version": "0.3.2",
   "main": "index.js",
   "description": "Utility to run a forerunner job without a worker pool",
   "license": "MIT",
