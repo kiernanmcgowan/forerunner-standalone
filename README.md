@@ -1,6 +1,8 @@
 forerunner-standalone
 ===
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kiernanmcgowan/forerunner-standalone.svg)](https://greenkeeper.io/)
+
 A simple utility script to run forerunner jobs without a worker pool. Useful for performing one-off tasks or testing worker scripts.
 
 ```
