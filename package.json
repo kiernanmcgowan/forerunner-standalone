@@ -13,8 +13,8 @@
     "forerunner-standalone": "./bin/standalone.sh"
   },
   "dependencies": {
-    "forerunner": "0.3.15",
-    "commander": "~2.2.0",
-    "underscore": "~1.6.0"
+    "forerunner": "0.3.17",
+    "commander": "~2.9.0",
+    "underscore": "~1.8.3"
   }
 }
